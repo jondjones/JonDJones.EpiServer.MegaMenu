@@ -1,0 +1,30 @@
+.col-md-12
+{
+    background-color: red;
+    height: 250px;
+}
+
+.col-md-8
+{
+    background-color: blue;
+    height: 250px;
+}
+
+.col-md-6
+{
+    background-color: yellow;
+    height: 250px;
+}
+
+.col-md-4
+{
+    background-color: green;
+    height: 250px;
+}
+
+.col-md-3
+{
+    background-color: black;
+    height: 250px;
+}
+}

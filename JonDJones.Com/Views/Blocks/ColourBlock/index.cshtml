@@ -1,0 +1,10 @@
+﻿@model JonDJones.com.Core.ViewModel.Blocks.ColourBlockViewModel
+
+Colour Block
+<div class="row">
+    <div class="colourblock @Model.GetBootstrapClass()">
+
+        @Html.PropertyFor(m => m.CurrentBlock.Text)
+
+    </div>
+</div>
